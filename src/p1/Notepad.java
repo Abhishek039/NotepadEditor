@@ -648,5 +648,5 @@ final String aboutText=
 	"<html><big>Notepad Version: 1.0</big><hr><hr>"
 	+"<p align=right>Prepared by a Abhishek pandey"
 	
-	+"<hr><em><big>abhip0380@gmail.com</big></em><hr><html>";
+	+"<hr><em><big></big></em><hr><html>";
 }
